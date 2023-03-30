@@ -9,10 +9,10 @@ links:
 - https://www.python.org/downloads/release/python-3112/ 
 - https://code.visualstudio.com/download
 
-next follow the instructions in https://realpython.com/api-integration-in-python/
+Next follow the instructions in https://realpython.com/api-integration-in-python/
 
 One of the first things you'll notice is some parts of the code say "Shell" or "Python" its referring to the terminal on the bottom of the IDE. 
 Start in the powershell terminal and make sure "Pip" is installed. Refer to the resources here for pip https://realpython.com/what-is-pip/ 
 
-Some code will be done in the terminal to showcase quick tips/tricks. In the powershell terminal you can start to write python code by using the command `python` 
+For  this tutorial, a lot of the code will be done in the python terminal rather than writing code in a python file and running the file. In the powershell terminal you can start to write python code by using the command `python` 
 which converts the powershell terminal to a python terminal, you will notice the ">>>" before your text which is a indicator.
